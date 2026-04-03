@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Me encanta tu madre
+=======
+Me encanta tu padre
+>>>>>>> 6435ead16ddfdbbf3b90156ad88f6104999b2746
